@@ -1,0 +1,6 @@
+2024-07-17 14:57:24,597 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 0.925804 seconds
+2024-07-17 14:57:24,599 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 0.865627 seconds
+2024-07-17 14:57:24,599 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 0.763574 seconds
+2024-07-17 14:57:26,083 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 1.854181 seconds
+2024-07-17 14:57:26,181 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 1.594862 seconds
+2024-07-17 14:57:26,243 - INFO - Retrying request to /deployments/BeyondCase002/chat/completions in 1.946636 seconds
